@@ -8,7 +8,9 @@ Currently, I am exploring the field of Data Science including various statistica
 **Tools & Technologies:**
 
 ![](https://img.shields.io/badge/Code-python-green)
+
 ![](https://img.shields.io/badge/Code-MATLAB-green)
+
 ![](https://img.shields.io/badge/Code-SQL-green)
 
 
