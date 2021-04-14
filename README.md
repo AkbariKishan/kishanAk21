@@ -26,7 +26,7 @@ Currently, I am exploring the field of Data Science including various statistica
 
 [2]: mailto:kishanakbari@gmail.com
 
-[![Email][3.3]][3]
+[![Resume][3.3]][3]
 
 [3.3]: https://img.shields.io/badge/DOWNLOAD%20RESUME-F47521?style=for-the-badge&logo=RESUME&logoColor=white
 
