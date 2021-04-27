@@ -30,7 +30,7 @@ Currently, I am exploring the field of Data Science including various statistica
 
 [3.3]: https://img.shields.io/badge/DOWNLOAD%20RESUME-F47521?style=for-the-badge&logo=RESUME&logoColor=white
 
-[3]: https://github.com/kishanAk21/my_resume/raw/main/Resume_Kishan.pdf
+[3]: https://github.com/kishanAk21/my_resume/raw/afdf3ce3fbf18d5a7e220ecb9c6624fbd0a030e0/Kishan_Rasikbhai_Akbari_resume.pdf
 
 [![GitHub][4.4]][4]
 
