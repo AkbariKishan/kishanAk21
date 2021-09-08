@@ -4,10 +4,6 @@
 I am an engineer with work history in the IT/Mechanical/Aerospace industry. I am passionate about statistics and data science. <br />
 Currently, I am exploring the field of Data Science including various statistical methods, ML, NLP and DL. <br />
 
-<p align="center">
-  <img src="https://github.com/kishanAk21/kishanAk21/blob/main/Screenshot%202021-09-08%20at%2011.53.58%20PM.png">
-</p>
-
 
 **Tools & Technologies:**
 
